@@ -9,3 +9,8 @@ you can do \#channelname in discord to get the channel id
 bot token you can get out of the discord dev site
 https://discordapp.com/developers/applications/
 click on your application, then "Bot" then "click to reveal token"
+
+
+This needs to be packaged in a zip to be usable. 
+
+see https://cdn.streamlabs.com/chatbot/Documentation_Twitch.pdf
